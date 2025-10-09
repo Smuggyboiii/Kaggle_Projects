@@ -1,7 +1,7 @@
 # Kaggle Projects
 
-This repository contains code for various **Kaggle competitions** I've worked on.  
-Each folder includes the **full workflow** — from data preprocessing and exploration to model training, evaluation, and submission.
+This repository contains code for various Kaggle competitions and other ML and Data Science Projects I've worked on.  
+Each folder includes the **full workflow** — from data preprocessing and exploration to model training, evaluation, and submission. 
 
 Current projects:
 - **Titanic** – Decision Tree baseline model for the Titanic survival prediction challenge.
